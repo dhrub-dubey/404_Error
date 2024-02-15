@@ -220,7 +220,7 @@ body {
 }
 
 .stars {
-  background: url(./pic/overlay_stars.svg);
+  background: url(overlay_stars.svg);
   background-repeat: repeat;
   background-size: contain;
   background-position: left top;
