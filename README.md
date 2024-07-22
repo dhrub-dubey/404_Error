@@ -1,5 +1,6 @@
 # 404-error-page
 
+FOR DEVELOPERS' OWN PERSONAL USE -
 /* In App.tsx of the sandbox, you can either use -   
 
    1) https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif
